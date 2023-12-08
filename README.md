@@ -27,8 +27,7 @@
 
 <h4>👨‍💻 IT Infrastructure And Coding Projects viewed and attempted for educational uses:</h4>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
