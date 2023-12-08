@@ -40,10 +40,12 @@
 
 <h5>👨‍💻 IT Infrastructure And Coding Projects viewed and attempted for educational uses:</h5>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab With Bulk User Creation (Educational Purposes followed)]https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab
+
+-<b>Azure</b>
+- [azuresentinalattackmap]https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap
+  
   
 <h5>📺 Popular YouTube Videos</h5>
 
