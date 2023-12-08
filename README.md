@@ -43,7 +43,7 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab With Bulk User Creation (Educational Purposes followed)]https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab
 
--<b>Azure</b>
+- <b>Azure</b>
 - [azuresentinalattackmap]https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap
   
   
