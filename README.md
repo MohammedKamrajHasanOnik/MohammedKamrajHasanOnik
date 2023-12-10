@@ -41,10 +41,10 @@
 <h5>👨‍💻 IT Infrastructure And Coding Projects viewed and attempted for educational uses:</h5>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab With Bulk User Creation (Educational Purposes followed)](https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab)
+  - [Active Directory Home Lab With Bulk User Creation](https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab)
 
 - <b>Azure</b>
-- [SIEM& Honeypot Microsoft Azuresentinalattackmap](https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap)
+- [SIEM& Honeypot Microsoft Azuresentinalattackmap (Educational Reasearch Purposes)](https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap)
   
   
 <h5>📺 Popular YouTube Videos</h5>
