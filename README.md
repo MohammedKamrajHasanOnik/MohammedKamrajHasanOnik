@@ -42,7 +42,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab With Bulk User Creation](https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab)
-  - [FileIntegrityMonitor](https://github.com/MohammedKamrajHasanOnik/FileIntegrityMonitor)
+  - [File Integrity Monitor](https://github.com/MohammedKamrajHasanOnik/FileIntegrityMonitor)
 
 - <b>Azure</b>
 - [SIEM& Honeypot Microsoft Azuresentinalattackmap (Educational Reasearch Purposes)](https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap)
