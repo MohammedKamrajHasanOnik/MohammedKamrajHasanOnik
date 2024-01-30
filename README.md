@@ -45,7 +45,7 @@
   - [File Integrity Monitor](https://github.com/MohammedKamrajHasanOnik/FileIntegrityMonitor)
 
 - <b>Azure</b>
-- [SIEM& Honeypot Microsoft Azuresentinalattackmap (Educational Reasearch Purposes)](https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap)
+- [SIEM& Honeypot Microsoft Azuresentinalattackmap (Educational Research Purposes)](https://github.com/MohammedKamrajHasanOnik/azuresentinalattackmap)
 
   
   
