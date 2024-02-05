@@ -44,8 +44,8 @@
   - [Active Directory Home Lab With Bulk User Creation](https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab)
   - [File Integrity Monitor](https://github.com/MohammedKamrajHasanOnik/FileIntegrityMonitor)
 
-- <b>Azure</b>
-- [SIEM-Tutorial-Azure-Sentinel-Attack-Map](https://github.com/MohammedKamrajHasanOnik/SIEM-Tutorial-Azure-Sentinel-Attack-Map/blob/main/README.md)
+ - <b>Azure</b>
+ - [SIEM-Tutorial-Azure-Sentinel-Attack-Map](https://github.com/MohammedKamrajHasanOnik/SIEM-Tutorial-Azure-Sentinel-Attack-Map/tree/main)
 
   
   
