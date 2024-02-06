@@ -15,9 +15,8 @@
 <p align="left">
 <a href="https://discord.gg/brightlightz_246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brightlightz_246" height="30" width="40" /></a>
 </p>
-
 <p align="left">
-<a href="https://linkedin.com/in/Mohammed Kamraj Hasan Onik" target="blank"><img align="center" src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="mohammed kamraj hasan onik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mohammed Kamraj Hasan Onik" target="blank"><img align="center" src="www.linkedin.com/in/mohammed-kamraj-hasan-onik-39728b29a" alt="mohammed kamraj hasan onik" height="30" width="40" /></a>
 </p>
 
 <h3>📄 Certifications</h3></h3>
