@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedkamrajhasanonik&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedkamrajhasanonik" /> </p>
 
-- 💬 Ask me about **Active Directory, Java, TCP/IP protocols, Windows 11, Linux, Firewall, Server, Powershell, CMD, PC and Hardware Troubleshooting, Entra ID, Azure, Agile Methodology, PRINCE2, Waterfall method and Business Analysis**
+- 💬 Ask me about **Active Directory, Azure VM, Kusto Query Langugage,Java, TCP/IP protocols, Windows 11, Linux, Firewall, Server, Powershell, CMD, PC and Hardware Troubleshooting, Entra ID, Azure, Agile Methodology, PRINCE2, Waterfall method and Business Analysis**
 
 - 📫 How to reach me **kamraj@hotmail.co.uk**
 
