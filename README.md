@@ -40,7 +40,7 @@
 
 <h5>👨‍💻 IT Infrastructure And Coding Projects viewed and attempted for educational uses:</h5>
 
-   <b>PowerShell</b>
+    <b>PowerShell</b>
  - [Active Directory Home Lab With Bulk User Creation](https://github.com/MohammedKamrajHasanOnik/ActiveDirectoryLab)
  - [File Integrity Monitor](https://github.com/MohammedKamrajHasanOnik/FileIntegrityMonitor)
 
