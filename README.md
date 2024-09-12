@@ -1,6 +1,6 @@
 ![MasterHead](https://blog-assets.freshworks.com/freshservice/wp-content/uploads/2021/03/23165456/choose_a_pm_tool_banner.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Kamraj Hasan Onik</h1>
-<h3 align="center">Zealous, and hardworking with a deep passion for superlative IT and Technology systems. Pragmatic and versatile at adapting to a plethora of organizational needs and requirements. I tend to take a Holistic Approach to Business Systems. Unequivocally exploring Management and lessening Business ramifications.</h3>
+<h3 align="center">Zealous, and hardworking with a deep passion for superlative IT and Business systems. Possess a magnitude of IT and Business Topologies whilst constantly updating. Pragmatic and versatile at adapting to a plethora of organizational needs. Tend to take a Holistic Approach to Business Systems. Unequivocally exploring IT and Management whilst lessening ramifications.</h3>
 <img align="right" alt="Coding" width="400" src="https://2.bp.blogspot.com/-2JQQUBNtmP8/XJRQS_B7aDI/AAAAAAAAGLw/-sxqX_1pryA-0NFmKOcum6rbX-GRAAl7wCLcBGAs/s1600/roundtables.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedkamrajhasanonik&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedkamrajhasanonik" /> </p>
